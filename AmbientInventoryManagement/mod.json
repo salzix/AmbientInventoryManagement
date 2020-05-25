@@ -1,0 +1,12 @@
+﻿{
+  "Id": "AmbientInventoryManagement",
+  "DisplayName": "Ambient Inventory Management mod",
+  "Author": "tomasz.wegrowski@gmail.com",
+  "Version": "0.1",
+  "Game": "Subnautica",
+  "Enable": true,
+  "VersionDependencies": { 
+    "SMLHelper": "2.1"
+  },
+  "AssemblyName": "AmbientInventoryManagement.dll",
+}
