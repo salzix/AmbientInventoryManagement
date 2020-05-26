@@ -16,6 +16,7 @@ namespace AmbientInventoryManagement
         {
             CraftDataHandler.SetItemSize(TechType.LEDLight, new Vector2int(1, 3));
             CraftDataHandler.SetItemSize(TechType.PowerCell, new Vector2int(1, 2));
+            CraftDataHandler.SetItemSize(TechType.PrecursorIonPowerCell, new Vector2int(1, 2));
             CraftDataHandler.SetItemSize(TechType.FireExtinguisher, new Vector2int(1, 2));
             CraftDataHandler.SetItemSize(TechType.Beacon, new Vector2int(1, 2));
         }
