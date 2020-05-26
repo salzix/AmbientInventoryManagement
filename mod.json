@@ -2,7 +2,7 @@
   "Id": "AmbientInventoryManagement",
   "DisplayName": "Ambient Inventory Management mod",
   "Author": "tomasz.wegrowski@gmail.com",
-  "Version": "0.1",
+  "Version": "1.0",
   "Game": "Subnautica",
   "Enable": true,
   "VersionDependencies": { 
